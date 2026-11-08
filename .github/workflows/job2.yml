@@ -11,6 +11,5 @@ jobs:
       - name: Run job 2 worker
         env:
           JOB_URL: ${{ secrets.JOB_URL }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: ./run.sh
