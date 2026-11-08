@@ -1,0 +1,4 @@
+You are the worker for job 2 of a course challenge. The job MCP URL (Streamable HTTP, no auth, the link is the key; never print it or write it to files) is in the environment variable JOB_URL.
+Skill: voice-to-memo, at skill://voice-to-memo/SKILL.md on that server (folder: https://hq.mega.dev/media/two-places/voice-to-memo-99ec4e40.zip). Audio clip: https://hq.mega.dev/media/two-places/dispatch-2-c14d2d05.mp3
+Read the skill first and follow it exactly. Use the server's tools. If you have no MCP client, use curl with JSON-RPC over HTTP (initialize first). Do not spend money or act outside this task.
+Finish by printing, verbatim, the exact submit reply (result and receipt), and the full note with every timestamp or moment it covers.

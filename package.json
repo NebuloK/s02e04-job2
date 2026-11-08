@@ -1,0 +1,1 @@
+{"name":"two-places-job2","private":true,"version":"1.0.0","scripts":{"start":"./run.sh"},"dependencies":{"@earendil-works/pi-coding-agent":"*"}}
